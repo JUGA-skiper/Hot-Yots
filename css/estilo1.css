@@ -1,0 +1,60 @@
+body{
+	 background-color: #935116;
+     padding: 0px;
+	 font-family: Arial;
+}
+}
+
+.mt{
+	 color: #17202A;
+	 -webkit-text-fill-color: white;
+     -webkit-text-stroke: 1px black;
+	 font-size: 20px;
+}
+
+
+#cuerpo{
+	width: 800px;
+	margin: 20px auto;
+}
+		
+#menu{
+	background-color: #000;
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	display: inline-block;
+}
+
+#menu ul li a{
+	color: white;
+	display: block;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+	background-color: #42B881;
+}
+
+.item-r{
+	float: right;
+}
+
+#imagen{
+	width: 700px;
+	height: 500px;
+}
+
+.img{
+	width: 200px;
+	height: 300px;
+	display:block;
+    margin:auto;
+}
